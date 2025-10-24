@@ -1,2 +1,4 @@
-# Ecommerce-de-pipeline
-End-to-end AWS Data Engineering pipeline using S3, Glue (PySpark), Redshift &amp; SQL for e-commerce analytics.
+# E-Commerce Data Engineering Pipeline (AWS)
+
+This project demonstrates an end-to-end data pipeline using AWS:
+Raw Data (S3) → AWS Glue (PySpark ETL) → Processed Zone → Redshift (Warehouse) → Analytics Layer.
